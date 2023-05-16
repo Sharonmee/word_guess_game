@@ -1,2 +1,2 @@
 # word_guess_game
-A  word  guess game that  gives clues to players to guess the secret word then awards points based on which clue the player guessed the word on.
+A fun word guess game built in C programming. The player is provided with clues and is supposed to guess the correct word. The player is given points based on the hint at which he or she guesses the word.
